@@ -1,0 +1,23 @@
+.footerCover{
+    background-color: rgb(40, 40, 53);
+}
+.footerLink h3{
+    color: gray;
+}
+.footerLink{
+    text-align: start;
+}
+.footerLink .link{
+    text-decoration: none;
+    color: whitesmoke;
+    display: inline-block;
+    padding-top: 15px;
+
+}
+/* .footerLink .link:hover{
+    text-decoration: underline;
+} */
+.copyright{
+    text-align: center;
+    color: gray;
+}

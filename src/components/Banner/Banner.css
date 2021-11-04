@@ -1,0 +1,20 @@
+.slider img{
+    width: 100%;
+    height: 100vh;
+}
+.caption{
+    padding-bottom: 10%;
+    text-align: start;
+}
+
+.caption h1{
+    font-size: 64px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.caption h3{
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

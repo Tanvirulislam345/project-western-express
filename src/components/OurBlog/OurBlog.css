@@ -1,0 +1,16 @@
+.blogCover{
+    background-image: url(https://image.freepik.com/free-photo/blur-gym-fitness_74190-4444.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .blogImage{
+        border-radius: 10px;
+    }
+    .blogDetails{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: start;
+    }
+    

@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    
+    /* align-items: center;
+    justify-content: center; */
+}
+
+form input{
+    /* margin: auto; */
+    width: 300px;
+    margin-bottom: 20px;
+}
+form textarea{
+    height: 100px;
+    width: 300px;
+    margin-bottom: 20px;
+}
