@@ -16,7 +16,7 @@ const SinglePackage = (props) => {
                         style={{ borderRadius: '10px', height: '235px' }}
                     />
                     <Card.Body>
-                        <Card.Title className="price"> <h5 className="fw-bold">{tourFee}</h5><small>/per person</small>
+                        <Card.Title className="price"> <h5 className="fw-bold">${tourFee}</h5><small>/per person</small>
                         </Card.Title>
                         <Card.Title> <h4 className="text-danger">{name}</h4> </Card.Title>
                         <Card.Text>
